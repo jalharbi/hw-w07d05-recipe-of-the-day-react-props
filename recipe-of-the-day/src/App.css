@@ -1,0 +1,22 @@
+h2 {
+    color: rgb(112, 132, 133);
+    text-align: center;
+    
+}
+.recipe{
+    background-color: rgb(115, 138, 179);
+    float:left;
+    /* overflow:hidden; */
+    width: 50%;
+   margin-left:25%;
+
+}
+
+.ingred{
+    background-color: rgb(223, 245, 238);
+    float:center;
+    overflow:hidden;
+    width: 50%;
+    margin-left:25%;
+    
+}
